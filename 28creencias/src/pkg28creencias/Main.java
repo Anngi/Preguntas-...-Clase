@@ -66,7 +66,7 @@ preguntas [10] = "11) " + "¿Por medio de Cristo somos justificados y libertados
 preguntas [11] = "12) " + "¿Quién nos guía para reconocer nuestra pecaminosidad y arrepentirnos es el pastor \n "+
                           "de la iglesia?";
 preguntas [12] = "13 " + "¿Nosotros mismos podemos lograr la victoria sobre las fuerzas del mal que aún tratan\n"+
-                         " de dominarnos?";
+                         " de dominarnos?"; 
 preguntas [13] = "14) " + "¿La iglesia más que una congregación ¿es el Cuerpo de Cristo??\n";
 preguntas [14] = "15) " + "¿El pueblo remanente debe esconder el mensaje de la segunda venida hasta que Cristo vuelva?\n";
 preguntas [15] = "16) " + "¿La Iglesia es un cuerpo con muchos miembros, llamados de toda nación, tribu, lengua y pueblo.\n"+
